@@ -7,5 +7,33 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://hyperskill.org/projects/39/stages/208/implement#comment
-status: Unchecked
-record: -1
+status: Failed
+feedback:
+  message: |-
+    Wrong answer in test #1
+
+    There is no Automated Readability Index in output
+
+    Please find below the output of your program during this failed test.
+    Note that the &#39;&gt;&#39; character indicates the beginning of the input line.
+
+    ---
+
+    Arguments: input.txt
+
+    The text is:
+    Readability is the ease with which a reader can understand a written text. In natural language, the readability of text depends on its content and its presentation. Researchers have used various factors to measure readability. Readability is more than simply legibility, which is a measure of how easily a reader can distinguish individual letters or characters from each other. Higher readability eases reading effort and speed for any reader, but it is especially important for those who do not have high reading comprehension. In readers with poor reading comprehension, raising the readability level of a text from mediocre to good can make the difference between success and failure
+    Words: 108
+    Sentences: 6
+    Characters: 580
+    Syllables: 196
+    Polysyllables: 20
+    Enter the score you want to calculate (ARI, FK, SMOG, CL, all): &gt; all
+    Automated Readability Index: 12.86 (about 18 year olds).
+    Flesch-Kincaid readability tests: 12.84 (about 18 year olds).
+    Simple Measure of Gobbledygook: 13.56 (about 22 year olds).
+    Coleman-Liau index: 14.13 (about 22 year olds).
+
+    This text should be understood in average by 20.00 year olds.
+  time: "Thu, 06 Nov 2025 10:44:00 UTC"
+record: 4
