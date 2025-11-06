@@ -12,6 +12,7 @@ programming_language: Java
 programming_language_version: 11
 content:
   - Readability Score (Java)
+  - Topics
 additional_files:
   - name: build.gradle
   - name: settings.gradle
